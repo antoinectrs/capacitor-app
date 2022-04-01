@@ -1,0 +1,7 @@
+{
+  "name": "Playground",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

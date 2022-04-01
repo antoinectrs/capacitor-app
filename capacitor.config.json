@@ -1,0 +1,6 @@
+{
+  "appId": "com.ctrs.playground.app",
+  "appName": "playground",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
